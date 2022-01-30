@@ -95,11 +95,7 @@ If you'd like to run your own local hardhat network, you can run:
 npx hardhat node
 ```
 
-And then **in a different terminal**
-
-```
-npx hardhat run scripts/deploy.js --network localhost
-```
+This will also deploy your `SimpleStorage.sol` contract. 
 
 And you should see transactions happen in your terminal that is running `npx hardhat node`
 
