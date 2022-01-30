@@ -1,11 +1,5 @@
 # Hardhat Simple Storage
 
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
-
-Video Coming soon...
-
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-
 - [Hardhat Simple Storage](#hardhat-simple-storage)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
@@ -22,9 +16,6 @@ Video Coming soon...
 - [Linting](#linting)
 - [Thank you!](#thank-you)
 
-This project is apart of the Hardhat FreeCodeCamp video.
-
-Video coming soon...
 
 # Getting Started
 
