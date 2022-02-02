@@ -24,7 +24,9 @@ const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
 module.exports = {
   defaultNetwork: "hardhat",
   networks: {
-    hardhat: {},
+    hardhat: {
+      chainId: 31337,
+    },
     kovan: {
       url: KOVAN_RPC_URL,
       accounts: [PRIVATE_KEY],
